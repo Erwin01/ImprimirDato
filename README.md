@@ -1,2 +1,2 @@
 # ImprimirDato
-Aplication development in Java with Visual Studio
+Aplication development in Java with Netbeans
